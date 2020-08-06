@@ -1,5 +1,5 @@
-### What is an environment? testing 123
-An environment in terms of programming in a location where we would deploy the code. There can be several different environments. They are as follows:
+### What is an environment? tes44444444ting 123
+environment in terms of programming in a location where we would deploy the code. There can be several different environments. They are as follows:
 
 - Development environment
 - Testing environment – using a virtual machine
