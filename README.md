@@ -1,3 +1,11 @@
+### What is an environment?
+An environment in terms of programming in a location where we would deploy the code. There can be several different environments. They are as follows:
+
+- Development environment
+- Testing environment – using a virtual machine
+- Production environment – using a virtual machine
+
+
 ### What is Jenkins?
 Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
 
