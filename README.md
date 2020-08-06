@@ -8,3 +8,6 @@ It allows you to send real-time data from one application to another whenever a 
 
 ### What is a API call?
 Simply put, whenever you make a call to a server using APIs, this counts as an API call. For example, every time you log in, ask a question on your computer or an app, you're in fact making an API call. An API call is the process that takes place after the API is set up and ready to go.
+
+### Differance between an API and webhook
+To put it simply, an API does stuff when you ask it to, while a Webhook does stuff on it’s own when certain criteria is met or scenarios takes place. 
